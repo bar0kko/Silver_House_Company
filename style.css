@@ -1,0 +1,131 @@
+.silv {
+    color:grey;
+}
+
+.liv {
+    justify-content: center;
+font-size: large;
+color:#bbbbbb;
+display: flex;
+margin-top: 40px;
+margin-bottom: 50px;
+
+
+}
+
+.px {
+    justify-content: center;
+    display: flex;
+    
+}
+
+.fer {
+    display: flex;
+    justify-content: space-between;
+    
+
+
+
+}
+
+.cl {
+    color:lightskyblue;
+    font-size: 20px;
+
+
+
+}
+
+.ur {
+
+    background-color: #f0f0f0;
+   justify-content: start;
+   top:100px;
+   color: gray;
+   margin-left: 100px;
+   line-height: 25px;
+padding-left: 50px;
+padding-top: 40px;
+padding-right: 150px;
+margin-top: 40px;
+max-width: 2500px;
+
+
+
+
+
+
+
+}
+
+.an {
+    display: flex;
+}
+
+.cool {
+   text-decoration: underline;
+color:lightskyblue;
+
+
+}
+
+.be,
+.bee,
+.bees,
+.beese,
+.beeses
+ {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.ppp {
+justify-content: center;
+display: flex;
+}
+
+.ar {
+justify-content: start;
+    background-color: #f0f0f0;
+
+margin-top: 40px;
+padding-left: 50px;
+padding-top: 40px;
+margin-right: 100px;
+padding-right: 50px;
+line-height: 25px;
+color: gray;
+margin-left: 50px;
+padding-bottom: 200px;
+
+}
+
+.end {
+    margin-top: 40px;
+    background-color: #f0f0f0;
+    padding-top: 10px;
+margin-left: 100px;
+margin-right: 100px;
+padding-left: 30px;
+display: flex;
+justify-content: space-between ;
+color:gray;
+}
+
+
+.star {
+    justify-content: end;
+    display: flex;
+    font-size: 20px;
+}
+
+.stars {
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.bib {
+    background-color: rgb(44, 44, 44);
+}
+
